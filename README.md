@@ -9,6 +9,6 @@ Analyze the alerts in the Intrusion Detection System, set up a SIEM to collect a
 handling procedures to respond to any issues you uncover.
 
 # Getting The Environment Set Up
-* 1. Confirm That Your Machine Can Run The Project
-*2. Install VirtualBox 
-*3. Download Project Starter Files
+## 1. Confirm That Your Machine Can Run The Project
+## 2. Install VirtualBox 
+## 3. Download Project Starter Files
