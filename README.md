@@ -1,14 +1,14 @@
 # Intrusion detection and response
 
-# The Scenario
+# The scenario
 Jacqui, the security analyst for Yoyodyne's satellite office in Kalamazoo, is taking a much-needed vacation. Corporate has asked me to fill in for her while she enjoys some time on the 
 beach. 
 
-# My Job
-Analyze the alerts in the Intrusion Detection System, set up a SIEM to collect and analyze data, monitor systems for suspicious activity, document evidence and follow the incident
+# My job
+Analyze the alerts in the intrusion detection system, set up a SIEM to collect and analyze data, monitor systems for suspicious activity, document evidence and follow the incident
 handling procedures to respond to any issues you uncover.
 
-# Getting the environment Set Up
+# Getting the environment set up
 ## 1. Confirm that the machine can run the project
 ## 2. Install VirtualBox 
 ## 3. Download project starter files
