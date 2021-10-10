@@ -35,6 +35,6 @@ What if you hadn't seen the initial alert? There are a variety of reasons that c
 * Create a report in Splunk to display authentication failures by user from the host-based logs. Run the report for May 31, 2020. Export the report and save as it as report.pdf
 
 ## 6. Use the incidentrResponse playbooks to determine the next steps
-You have identified the initial indicator of compromise and performed additional analysis. What are the next steps to contain, eradicate, and recover from the threat?
-Consult the Incident Response playbooks and find the most appropriate playbook. Follow the playbook and fill out the Containment, Analysis, and Recovery sections of the Incident Ticket. If a step involves contacting another party, such as the help desk, simply note that you contacted that party, the date and time, and the nature of the request.
-Finally, note any recommendations to help better detect or prevent future occurrences of this threat in the Post-incident recommendations section of the Incident Ticket.
+I have identified the initial indicator of compromise and performed additional analysis. What are the next steps to contain, eradicate, and recover from the threat?
+Consult the Incident Response playbooks and find the most appropriate playbook. Follow the playbook and fill out the containment, analysis, and recovery sections of the incident ticket. If a step involves contacting another party, such as the help desk, simply note that you contacted that party, the date and time, and the nature of the request.
+Finally, note any recommendations to help better detect or prevent future occurrences of this threat in the post-incident recommendations section of the incident ticket.
