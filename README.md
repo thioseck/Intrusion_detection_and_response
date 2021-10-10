@@ -30,9 +30,9 @@ The Snort alerts may not tell the entire story. Remember that Snort can only ale
 What if you hadn't seen the initial alert? There are a variety of reasons that could occur. If the host is a laptop, for example, the initial traffic could have occurred on an external network. Or the traffic could have been between systems on a segment of your network that isn't monitored. Create a Snort rule that will alert on the outbound connection (from the Yoyodyne network to the Internet) that you identified in the previous step.
 
 ## 5. Use Splunk to Collect and Analyze Data
-* 1-Find the Zeek conn.log entry related to the suspicious activity identified in Step 1. Take a screenshot of the search query with the search result (there should be only one result) and save it as search.png
-* 2- Create a dashboard to identify privilege escalation. Identify both users who used sudo and the command or commands they ran. The dashboard should contain the following fields: _time, hostname, username, sudo_command. The events should be ordered by _time in ascending order (earliest time value first). Update the dashboard to display events from May 31, 2020. Take a screenshot of the dashboard and save as dashboard.png
-* 3-Create a report in Splunk to display authentication failures by user from the host-based logs. Run the report for May 31, 2020. Export the report and save as it as report.pdf
+* Find the Zeek conn.log entry related to the suspicious activity identified in Step 1. Take a screenshot of the search query with the search result (there should be only one result) and save it as search.png
+* Create a dashboard to identify privilege escalation. Identify both users who used sudo and the command or commands they ran. The dashboard should contain the following fields: _time, hostname, username, sudo_command. The events should be ordered by _time in ascending order (earliest time value first). Update the dashboard to display events from May 31, 2020. Take a screenshot of the dashboard and save as dashboard.png
+* Create a report in Splunk to display authentication failures by user from the host-based logs. Run the report for May 31, 2020. Export the report and save as it as report.pdf
 
 ## 6. Use The Incident Response Playbooks to Determine the Next Steps
 You have identified the initial indicator of compromise and performed additional analysis. What are the next steps to contain, eradicate, and recover from the threat?
