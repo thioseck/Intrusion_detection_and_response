@@ -5,8 +5,11 @@ Jacqui, the security analyst for Yoyodyne's satellite office in Kalamazoo, is ta
 beach. 
 
 # My job
-Analyze the alerts in the intrusion detection system, set up a SIEM to collect and analyze data, monitor systems for suspicious activity, document evidence and follow the incident
-handling procedures to respond to any issues you uncover.
+* Analyze alerts base on captured network traffic
+* Capture live network traffic
+* Correlate alerts with additional data sources from other logs
+* Set up a SIEM and configure dasboards and report
+* Follow the incident handling playbook to create an incident report
 
 # Getting the environment set up
 ## 1. Confirm that the machine can run the project
