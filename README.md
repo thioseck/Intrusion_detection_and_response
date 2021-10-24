@@ -1,8 +1,7 @@
 # Intrusion detection and response
 
 # The scenario
-Jacqui, the security analyst for Yoyodyne's satellite office in Kalamazoo, is taking a much-needed vacation. Corporate has asked me to fill in for her while she enjoys some time on the 
-beach. 
+Jacqui, the security analyst for Yoyodyne's satellite office in Kalamazoo, is taking a much-needed vacation. Corporate has asked me to fill in for her while she enjoys some time on the beach. She launched a honeypot and send me an old network diagram. 
 
 # My job
 * Analyze alerts base on captured network traffic
